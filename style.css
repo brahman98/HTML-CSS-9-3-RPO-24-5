@@ -212,6 +212,30 @@
     height: 341px;
     background: #222224;
 }
+.feature__center {
+    width: 1140px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100%;
+}
+.feature__item {
+    color: #FBFBFB;
+    width: 360px;
+    text-align: center;
+}
+.feature__h3 {
+    font-size: 20px;
+    margin: 28px 0 16px;
+    font-weight: 400;
+}
+
+.feature__p {
+    font-size: 14px;
+    font-weight: 300;
+}
+
 
 /* FOOTER */
 .footer__top {
